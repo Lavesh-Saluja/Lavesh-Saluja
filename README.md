@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lavesh-Saluja
+- 👋 Hi, I’m Lavesh Saluja
 - 👀 I’m interested in blockchain and open source
 - 🌱 I’m currently in btech first year in IIIT Bbsr 
 - 📫 twiter id: @Lavesh_linux
