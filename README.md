@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lavesh Saluja
 - 👀 Ethereum Solidity Developer
-- 🌱 I’m currently in btech Second year in IIIT Bbsr 
+- 🌱 I’m currently in btech third year in IIIT Bbsr 
 - 📫 twiter id: @Lavesh_linux
   
 <!---
