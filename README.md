@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lavesh Saluja
-- 👀 Ethereum Solidity Developer
+- 👀 Fullstack Ethereum and Web Developer
 - 🌱 I’m currently in btech third year in IIIT Bbsr 
 - 📫 twiter id: @Lavesh_linux
   
