@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lavesh Saluja
-- 👀 Fullstack Ethereum and Web Developer
-- 🌱 I’m currently in btech third year in IIIT Bbsr 
+- 👀 Fullstack Blockchain and Web Developer
+- 🌱 I’m currently in btech final year in IIIT Bbsr
 - 📫 twiter id: @Lavesh_linux
   
 <!---
